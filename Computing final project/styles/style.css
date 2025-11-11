@@ -1,0 +1,33 @@
+body{
+    background-color: #030608;
+    background-image: url(https://asset.kompas.com/crops/gL09vmVPYjiAm79oI6L3NW0jpl0=/177x0:2335x1439/1200x800/data/photo/2023/09/11/64fe97e84391a.jpg)
+    
+
+}
+
+
+p{
+    color: gray;
+    background-color: #1499eb00;
+    text-align: center;
+}
+
+p:hover{
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+
+}
+img{
+    height: 120px;
+}
+.box{
+    background-color: white;
+    padding: 20px;
+    margin-left: 80px;
+    margin-right: 120px;
+}
+
+table{
+    background-color: white;
+}
