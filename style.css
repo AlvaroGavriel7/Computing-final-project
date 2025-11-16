@@ -1,0 +1,30 @@
+body{
+    background-color: #bbc0ff;
+}
+
+
+p{
+    color: gray;
+    background-color: hwb(204 73% 0% / 0);
+    text-align: center;
+}
+
+p:hover{
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+
+}
+img{
+    height: 120px;
+}
+.box{
+    background-color: hsl(320, 91%, 91%);
+    padding: 20px;
+    margin-left: 80px;
+    margin-right: 120px;
+}
+
+table{
+    background-color: white;
+}
